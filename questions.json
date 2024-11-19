@@ -1,88 +1,88 @@
 {
-    "scientists": [
-        {
-            "image": "images/einstein.jpg",
-            "question": "Identify this scientist",
-            "options": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Nikola Tesla"],
-            "answer": "Albert Einstein"
-        },
-        {
-            "image": "images/bohr.jpg",
-            "question": "Identify this scientist",
-            "options": ["Galileo Galilei", "Neil Bohr", "James Clerk Maxwell", "Michael Faraday"],
-            "answer": "Neil Bohr"
-        },
-        {
-            "image": "images/Faraday.jpg",
-            "question": "Identify this scientist",
-            "options": ["Charles Darwin", "Niels Bohr", "Stephen Hawking", "Alan Turing"],
-            "answer": "Charles Darwin"
-        },
-        {
-            "image": "images/Kelvin.jpg",
-            "question": "Identify this scientist",
-            "options": ["Gregor Mendel", "Alexander Graham Bell", "Marie Curie", "Erwin Schrödinger"],
-            "answer": "Gregor Mendel"
-        },
-        {
-            "image": "images/Feynman.jpg",
-            "question": "Identify this scientist",
-            "options": ["Richard Feynman", "Carl Sagan", "Isaac Newton", "Michael Faraday"],
-            "answer": "Richard Feynman"
-        }
-    ],
-    "quotes": [
-        {
-            "question": "'I think, therefore I am' was said by?",
-            "options": ["Isaac Newton", "Galileo Galilei", "René Descartes", "Marie Curie"],
-            "answer": "René Descartes"
-        },
-        {
-            "question": "'Imagination is more important than knowledge.' Who said this?",
-            "options": ["Albert Einstein", "Nikola Tesla", "Thomas Edison", "Marie Curie"],
-            "answer": "Albert Einstein"
-        },
-        {
-            "question": "'The only way to do great work is to love what you do.' Who said this?",
-            "options": ["Steve Jobs", "Isaac Newton", "Albert Einstein", "Thomas Edison"],
-            "answer": "Steve Jobs"
-        },
-        {
-            "question": "'Not everything that can be counted counts, and not everything that counts can be counted.' Who said this?",
-            "options": ["Albert Einstein", "John Locke", "Winston Churchill", "Isaac Newton"],
-            "answer": "Albert Einstein"
-        },
-        {
-            "question": "'The greatest wealth is to live content with little.' Who said this?",
-            "options": ["Socrates", "Plato", "Aristotle", "Marcus Aurelius"],
-            "answer": "Socrates"
-        }
-    ],
-    "experiments": [
-        {
-            "question": "Who discovered penicillin?",
-            "options": ["Alexander Fleming", "Marie Curie", "Isaac Newton", "Albert Einstein"],
-            "answer": "Alexander Fleming"
-        },
-        {
-            "question": "Who developed the theory of general relativity?",
-            "options": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Galileo Galilei"],
-            "answer": "Albert Einstein"
-        },
-        {
-            "question": "Who discovered the law of motion and universal gravitation?",
-            "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "James Clerk Maxwell"],
-            "answer": "Isaac Newton"
-        },
-        {
-            "question": "Who created the first periodic table?",
-            "options": ["Dmitri Mendeleev", "Marie Curie", "Henry Moseley", "John Dalton"],
-            "answer": "Dmitri Mendeleev"
-        },
-        {
-            "question": "Who first synthesized the artificial diamond?",
-            "options": ["Marie Curie", "Charles Hall", "Edward G. Acheson", "Alexander Graham Bell"],
-            "answer": "Edward G. Acheson"
-        }
-    ]
-  }
+  "scientists": [
+      {
+          
+          "question": "वाह कौन सा देश है जहां पर मृत शरीर को हजारों साल सरंचित रखा जाता है",
+          "options": ["मिस्र", "चिन देश", "भारत","इंडोनेशिया"],
+          "answer": "मिस्र"
+      },
+      {
+          
+          "question": "लिखित में से कौन किसी पूर्व प्रधानमंत्री की पुत्री नहीं है",
+          "options": ["", "इंदिरा गांधी", "शेख हसीना", "सिरीमावो भंडार नायके"],
+          "answer": "सिरीमावो भंडार नायके"
+      },
+      {
+          
+          "question": "भारत में केंद्रीय बैंकों के देखभाल कौन सी बैंक करती है",
+          "options": ["बैंक ऑफ इंडिया", "केंद्रीय अधिकोष", "भारतीय रिजर्व बैंक", "इनमें से कोई नहीं"],
+          "answer": "भारतीय रिजर्व बैंक"
+      },
+      {
+          
+          "question": "शाहजहाँ के नाम से शाषक बन्ने से पहले सहजादे के रूप में शाहजहाँ का क्या नाम था",
+          "options": ["खुर्रम", "खुशरो", "परवेज", "शाहर धीर"],
+          "answer": "खुर्रम"
+      },
+      {
+          
+          "question": "अमृतसर नगर की नींव किसने रखी",
+          "options": ["गुरु रामदास", "गुरु गोविंद सिंह", "गुरु नानक", "रणजीत सिंह"],
+          "answer": "गुरु रामदास"
+      }
+  ],
+  "quotes": [
+      {
+          "question": "रामकृष्ण मिशन के स्थापनाकर्ता कौन थे?",
+          "options": ["दयानंद सरस्वती", "रामकृष्ण", "स्वामी विवेकानंद", "इनमें से कोई नहीं"],
+          "answer": "स्वामी विवेकानंद"
+      },
+      {
+          "question": "अख़बार कागज़ के उद्योग के लिए कौन सा शहर मशहूर है?",
+          "options": ["आगरा", "सूरत", "नेपानगर", "जमशेदपुर"],
+          "answer": "नेपानगर"
+      },
+      {
+          "question": "वन अनुसंधान संस्थान कहाँ स्थित है",
+          "options": ["दार्जिलिंग में", "शिलांग में", "देहरादून में", "हरिद्वार में"],
+          "answer": "देहरादून में"
+      },
+      {
+          "question": "'यूनेस्को संस्था किस क्षेत्र में काम करती है",
+          "options": ["बेरोजगारी क्षेत्र में", "उद्योग के क्षेत्र में", "जन जागृति में", "शिक्षा के क्षेत्र में"],
+          "answer": "शिक्षा के क्षेत्र में"
+      },
+      {
+          "question": "ग्रीनहाउस के प्रभाव से बाहरी वायुमंडल?",
+          "options": ["सामान्य रहता है", "गरम हो जाता है", "कोई असर नहीं पड़ता", "ठंडा हो जाता है"],
+          "answer": "गरम हो जाता है"
+      }
+  ],
+  "experiments": [
+      {
+          "question": "जम्मू कश्मीर के राज्यपाल की नियुक्ति कौन करता है?",
+          "options": ["जम्मू कश्मीर का मुख्यमंत्री", "जम्मू में कश्मीर का उच्च न्यायाधीश", "भारत के प्रधानमंत्री", "भारत का राष्ट्रपति"],
+          "answer": "भारत का राष्ट्रपती"
+      },
+      {
+          "question": "आर्थिक नियोजन विषय है?",
+          "options": ["संघ सुची में", "राज्य सुची में", "संवर्ती सुचि में", "किसी सुची में नहीं"],
+          "answer": "संवरती सुचि मे"
+      },
+      {
+          "question": "कलिंग पुरस्कार किस राज्य द्वार प्रदान किया जाता है?",
+          "options": ["ओडिशा", "कर्नाटक", "मध्य प्रदेश", "कश्मीर"],
+          "answer": "ओडिशा"
+      },
+      {
+          "question": "भारत का पहला स्टील उद्योग कहां लाया गया?",
+          "options": ["भिलाई", "टाटानगर", "जमशेदपुर", "फिरोजाबाद"],
+          "answer": "जमशेदपुर"
+      },
+      {
+          "question": "केसीपीएन सी क्या है?",
+          "options": [" नदी", "सागर", "झील", "नगर"],
+          "answer": "झील"
+      }
+  ]
+      }
